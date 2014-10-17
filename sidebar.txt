@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yav:home|Door43 (yav)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yav|d43-yav repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yav/archive/master.zip|d43-yav.zip]]
+
+**Recent Changes**
+{{changes>ns = yav}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yav|Ethnologue data]]
+
